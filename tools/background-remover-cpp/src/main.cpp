@@ -10,7 +10,7 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include "json.hpp"
+#include <nlohmann/json.hpp>
 
 static const Magick::Color color_transparent(0, 0, 0, 0);
 static const Magick::Color color_white(65535, 65535, 65535, 65535);
