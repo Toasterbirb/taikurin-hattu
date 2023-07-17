@@ -1,0 +1,2545 @@
+{
+    "floodfill": [
+        {
+            "file": "TROLLIN/Background copy 3.png",
+            "x": 300,
+            "y": 200
+        },
+        {
+            "file": "TROLLIN/I1-T.png",
+            "x": 38,
+            "y": 58
+        },
+        {
+            "file": "TROLLIN/I1-T.png",
+            "x": 40,
+            "y": 60
+        },
+        {
+            "file": "TROLLIN/K4-T.png",
+            "x": 10,
+            "y": 43
+        },
+        {
+            "file": "TROLLIN/V2-M.png",
+            "x": 133,
+            "y": 44
+        },
+        {
+            "file": "HATIFN1/fyr7d.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/fyr8d.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/fyr1d.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/flekk.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/fyr6c.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/fyr1c.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/fyr1b.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/fyr4c.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/fyr3c.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/fyr2c.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/fyr2d.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/fyrverkeri.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/fyr9d.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/stjerne8.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/fyr2b.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/strek.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/A7 My.png",
+            "x": 30,
+            "y": 64
+        },
+        {
+            "file": "HATIFN1/A7 My.png",
+            "x": 42,
+            "y": 63
+        },
+        {
+            "file": "HATIFN1/A9 My.png",
+            "x": 50,
+            "y": 70
+        },
+        {
+            "file": "HATIFN1/A10 Pappa.png",
+            "x": 42,
+            "y": 124
+        },
+        {
+            "file": "HATIFN1/A10 Pappa.png",
+            "x": 40,
+            "y": 126
+        },
+        {
+            "file": "HATIFN1/A12 My.png",
+            "x": 43,
+            "y": 49
+        },
+        {
+            "file": "HATIFN1/A12 My.png",
+            "x": 44,
+            "y": 52
+        },
+        {
+            "file": "HATIFN1/A12 My.png",
+            "x": 46,
+            "y": 53
+        },
+        {
+            "file": "HATIFN1/B3 My.png",
+            "x": 27,
+            "y": 83
+        },
+        {
+            "file": "HATIFN1/B6 My.png",
+            "x": 27,
+            "y": 84
+        },
+        {
+            "file": "HATIFN1/C4 My.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/D6 My.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/F4 My.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/H1 My.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/H2 My.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/H3 My.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/H4 My.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/H5 My.png",
+            "x": 30,
+            "y": 84
+        },
+        {
+            "file": "HATIFN1/H5 My.png",
+            "x": 40,
+            "y": 35
+        },
+        {
+            "file": "HATIFN1/pil 1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/pil 2.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/pil 3.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/pil 4.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/pil 5.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/pil 6.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/pil 7.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFN1/viskeramme.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "INFOKAR/hattiloop.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "INFOKAR/Snorken72.png",
+            "x": 102,
+            "y": 197
+        },
+        {
+            "file": "INFOKAR/Mummitrollet72.png",
+            "x": 93,
+            "y": 180
+        },
+        {
+            "file": "INFOKAR/Snorkfrøken72.png",
+            "x": 92,
+            "y": 178
+        },
+        {
+            "file": "KART/förgrund.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "KART/fil11.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "KART/fil09.png",
+            "x": 16,
+            "y": 16
+        },
+        {
+            "file": "TROLOUT/23 1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/A01.png",
+            "x": 29,
+            "y": 1
+        },
+        {
+            "file": "TROLOUT/Å3-T.png",
+            "x": 19,
+            "y": 1
+        },
+        {
+            "file": "TROLOUT/Æ3-T.png",
+            "x": 51,
+            "y": 15
+        },
+        {
+            "file": "TROLOUT/Æ5-T.png",
+            "x": 15,
+            "y": 53
+        },
+        {
+            "file": "TROLOUT/Æ6-T.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/Æ7-T.png",
+            "x": 0,
+            "y": 17
+        },
+        {
+            "file": "TROLOUT/bis 1 .png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/bis 2.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/bis 3.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/bis 5.png",
+            "x": 31,
+            "y": 1
+        },
+        {
+            "file": "TROLOUT/bis 5.png",
+            "x": 0,
+            "y": 26
+        },
+        {
+            "file": "TROLOUT/bis 5.png",
+            "x": 91,
+            "y": 43
+        },
+        {
+            "file": "TROLOUT/bis 5.png",
+            "x": 90,
+            "y": 39
+        },
+        {
+            "file": "TROLOUT/bis 8.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/bis 9.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/bis 10.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fil 7.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fil 10.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fil 11.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fil 13.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fil 15.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fly 01.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fly 02.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fly 04.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fly 05.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fly 06.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fly 07.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fly 08.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fly 09.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fly 11.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fly 12.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fly 14.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fly 16.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/fly 18.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/hb 10.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/hb7.PCT.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/hb.PCT.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/hc2.PCT.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/hc3.PCT.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/hc4.PCT.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/K2-T.png",
+            "x": 6,
+            "y": 38
+        },
+        {
+            "file": "TROLOUT/K2-T.png",
+            "x": 12,
+            "y": 37
+        },
+        {
+            "file": "TROLOUT/K2-T.png",
+            "x": 31,
+            "y": 33
+        },
+        {
+            "file": "TROLOUT/K2-T.png",
+            "x": 29,
+            "y": 49
+        },
+        {
+            "file": "TROLOUT/K4-T.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/K5-T.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/K6-T.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/M 05.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/M6-T.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/my 1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/my 2.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/my 3.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/my 4.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/my 5.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/my 6.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/my 7.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/my 8.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/my 9.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/my 11.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/my 13.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/my 14.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/mym 12.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/mym 13.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/N1-T.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/O04.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/O08.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/sni 1.png",
+            "x": 82,
+            "y": 88
+        },
+        {
+            "file": "TROLOUT/sni 1.png",
+            "x": 81,
+            "y": 89
+        },
+        {
+            "file": "TROLOUT/sni 1.png",
+            "x": 127,
+            "y": 90
+        },
+        {
+            "file": "TROLOUT/sni 1.png",
+            "x": 120,
+            "y": 83
+        },
+        {
+            "file": "TROLOUT/sni 1.png",
+            "x": 118,
+            "y": 84
+        },
+        {
+            "file": "TROLOUT/sni 1.png",
+            "x": 115,
+            "y": 85
+        },
+        {
+            "file": "TROLOUT/sni 1.png",
+            "x": 114,
+            "y": 86
+        },
+        {
+            "file": "TROLOUT/sni 2.png",
+            "x": 134,
+            "y": 95
+        },
+        {
+            "file": "TROLOUT/sni 3.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/sni 4.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/sni 5.png",
+            "x": 60,
+            "y": 80
+        },
+        {
+            "file": "TROLOUT/sni 5.png",
+            "x": 116,
+            "y": 94
+        },
+        {
+            "file": "TROLOUT/sni 6.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/sni 6.png",
+            "x": 116,
+            "y": 92
+        },
+        {
+            "file": "TROLOUT/sni 7.png",
+            "x": 119,
+            "y": 94
+        },
+        {
+            "file": "TROLOUT/sni 9.png",
+            "x": 134,
+            "y": 96
+        },
+        {
+            "file": "TROLOUT/sni 11.png",
+            "x": 127,
+            "y": 88
+        },
+        {
+            "file": "TROLOUT/Snr 00.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/Snr 03.png",
+            "x": 30,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/Snr 06.png",
+            "x": 97,
+            "y": 99
+        },
+        {
+            "file": "TROLOUT/snu 1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/snu 2.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/snu 3.png",
+            "x": 40,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/snu 4.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/snu 7.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/snu 12.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/snu 13.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/snu 15.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/tot 0.png",
+            "x": 106,
+            "y": 50
+        },
+        {
+            "file": "TROLOUT/tot 2.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/tot 3.png",
+            "x": 57,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/tot 4.png",
+            "x": 52,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/tot 4.png",
+            "x": 57,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/tot 6.png",
+            "x": 117,
+            "y": 117
+        },
+        {
+            "file": "TROLOUT/tot 10.png",
+            "x": 122,
+            "y": 122
+        },
+        {
+            "file": "TROLOUT/tot 16.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/tot 18.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/tot 19.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/V3-T.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/V4-T.png",
+            "x": 37,
+            "y": 50
+        },
+        {
+            "file": "TROLOUT/V4-T.png",
+            "x": 36,
+            "y": 40
+        },
+        {
+            "file": "TROLOUT/V4-T.png",
+            "x": 45,
+            "y": 20
+        },
+        {
+            "file": "TROLOUT/V6-T.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/vif 3 tof 3.png",
+            "x": 70,
+            "y": 21
+        },
+        {
+            "file": "TROLOUT/vif 3 tof 3.png",
+            "x": 73,
+            "y": 35
+        },
+        {
+            "file": "TROLOUT/vif 4 tof 4.png",
+            "x": 78,
+            "y": 30
+        },
+        {
+            "file": "TROLOUT/vif 5 tof 5.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/W2-T.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/Y5-T.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/Y6-T.png",
+            "x": 18,
+            "y": 28
+        },
+        {
+            "file": "TROLOUT/Y6-T.png",
+            "x": 12,
+            "y": 30
+        },
+        {
+            "file": "TROLOUT/Y9-T.png",
+            "x": 23,
+            "y": 20
+        },
+        {
+            "file": "TROLOUT/Y9-T.png",
+            "x": 21,
+            "y": 21
+        },
+        {
+            "file": "TROLOUT/Y9-T.png",
+            "x": 19,
+            "y": 22
+        },
+        {
+            "file": "TROLOUT/Z2-T.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TROLOUT/Z3-T.png",
+            "x": 53,
+            "y": 223
+        },
+        {
+            "file": "HATIFNA/fyr7d.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/fyr8d.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/fyr1d.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/flekk.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/fyr6c.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/fyr1c.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/fyr1b.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/spots1_1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/fyr4c.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/fyr3c.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/fyr2c.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/fyr2d.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/fyrverkeri.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/fyr9d.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/stjerne8.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/fyr2b.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/strek.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/A9 My.png",
+            "x": 50,
+            "y": 70
+        },
+        {
+            "file": "HATIFNA/A12 My.png",
+            "x": 43,
+            "y": 49
+        },
+        {
+            "file": "HATIFNA/A12 My.png",
+            "x": 44,
+            "y": 52
+        },
+        {
+            "file": "HATIFNA/A12 My.png",
+            "x": 46,
+            "y": 53
+        },
+        {
+            "file": "HATIFNA/B3 My.png",
+            "x": 27,
+            "y": 85
+        },
+        {
+            "file": "HATIFNA/B6 My.png",
+            "x": 23,
+            "y": 86
+        },
+        {
+            "file": "HATIFNA/C4 My.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/D6 My.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/F4 My.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/H1 My.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/H2 My.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/H3 My.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/H4 My.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HATIFNA/H5 My.png",
+            "x": 30,
+            "y": 83
+        },
+        {
+            "file": "HATIFNA/H5 My.png",
+            "x": 40,
+            "y": 35
+        },
+        {
+            "file": "HATIFNA/viskeramme.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Snusmum/2 6.png",
+            "x": 122,
+            "y": 37
+        },
+        {
+            "file": "Snusmum/A3 Mummin.png",
+            "x": 67,
+            "y": 123
+        },
+        {
+            "file": "Snusmum/A4 Mummin.png",
+            "x": 67,
+            "y": 123
+        },
+        {
+            "file": "Snusmum/A10 Mummin.png",
+            "x": 120,
+            "y": 160
+        },
+        {
+            "file": "Snusmum/A12 Mummin.png",
+            "x": 120,
+            "y": 190
+        },
+        {
+            "file": "Snusmum/E2 Snusmum.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Snusmum/E3 Snusmum.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Snusmum/E4 Snusmum.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Snusmum/E5 Snusmum.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Snusmum/Fløte.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Snusmum/färgade toner.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Snusmum/notrad.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Snusmum/ryggsäck.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Snusmum/W2.png",
+            "x": 6,
+            "y": 6
+        },
+        {
+            "file": "Snusmum/W2.png",
+            "x": 5,
+            "y": 5
+        },
+        {
+            "file": "Snusmum/W3.png",
+            "x": 20,
+            "y": 20
+        },
+        {
+            "file": "Snusmum/W4.png",
+            "x": 20,
+            "y": 30
+        },
+        {
+            "file": "Snusmum/W4.png",
+            "x": 15,
+            "y": 16
+        },
+        {
+            "file": "Snusmum/W4.png",
+            "x": 10,
+            "y": 10
+        },
+        {
+            "file": "Snusmum/W5.png",
+            "x": 20,
+            "y": 25
+        },
+        {
+            "file": "Snusmum/W5.png",
+            "x": 15,
+            "y": 47
+        },
+        {
+            "file": "Snusmum/W5.png",
+            "x": 12,
+            "y": 50
+        },
+        {
+            "file": "Snusmum/W6.png",
+            "x": 10,
+            "y": 30
+        },
+        {
+            "file": "Snusmum/W7.png",
+            "x": 15,
+            "y": 20
+        },
+        {
+            "file": "Snusmum/W7.png",
+            "x": 12,
+            "y": 24
+        },
+        {
+            "file": "GROTTAN/a.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/o.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/oe.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/p.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/q.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/r.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/aa.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/ae.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/b.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/d.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/e.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/Z10.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/Z04.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/Z03.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/N13.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/N06.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/N05.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/N04.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/N03.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/M06.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "GROTTAN/K14.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/Bok G7.png",
+            "x": 49,
+            "y": 60
+        },
+        {
+            "file": "HEMUL/Bok G7.png",
+            "x": 129,
+            "y": 52
+        },
+        {
+            "file": "HEMUL/Busk.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/Hemul C4.png",
+            "x": 31,
+            "y": 56
+        },
+        {
+            "file": "HEMUL/Hemul C5.png",
+            "x": 52,
+            "y": 64
+        },
+        {
+            "file": "HEMUL/Hemul C7.png",
+            "x": 68,
+            "y": 37
+        },
+        {
+            "file": "HEMUL/ I10.png",
+            "x": 29,
+            "y": 48
+        },
+        {
+            "file": "HEMUL/ I7.png",
+            "x": 27,
+            "y": 49
+        },
+        {
+            "file": "HEMUL/ I8.png",
+            "x": 28,
+            "y": 46
+        },
+        {
+            "file": "HEMUL/ I9.png",
+            "x": 29,
+            "y": 51
+        },
+        {
+            "file": "HEMUL/løvetann2.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/Snork A8.png",
+            "x": 72,
+            "y": 175
+        },
+        {
+            "file": "HEMUL/Snork I6.png",
+            "x": 53,
+            "y": 117
+        },
+        {
+            "file": "HEMUL/Bok G7.png",
+            "x": 7,
+            "y": 107
+        },
+        {
+            "file": "HEMUL/Bok G7.png",
+            "x": 7,
+            "y": 123
+        },
+        {
+            "file": "HEMUL/blåklokke1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/blåveis1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/fiol1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/forglemmegei1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/hestehov1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/hvitveis1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/kornblom1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/liljekonvall1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/løvetann1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/rødkløver1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/skogstjerne1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/smørblomst1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/tistel1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/forglemmegei3.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "HEMUL/Hemul C2.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/fuglB8.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/TIT07.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/10.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/ekorn20.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/ekorn18.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/farge12.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/klocka.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/ekorn24.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/ekorn12.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/svart10.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/TIT03.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/6.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/ekorn10.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/fuglA2.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/farge6.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/11.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/svart5.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/ekorn14.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/5.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/4.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/TIT04.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/TIT08.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/ekorn06.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/svart2.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/9.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/ekorn25.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/60.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/A01.png",
+            "x": 29,
+            "y": 0
+        },
+        {
+            "file": "Bisam/TIT06.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/svart12.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/7.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/ekorn13.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/ekorn21.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/00.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/ekorn05.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/lyckohjul.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/svart8.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/ekorn15.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/farge9.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/A04.png",
+            "x": 1,
+            "y": 87
+        },
+        {
+            "file": "Bisam/A04.png",
+            "x": 71,
+            "y": 121
+        },
+        {
+            "file": "Bisam/MY07.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/MY04.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/fuglB4.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/farge10.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/farge8.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/farge11.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/farge4.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/12.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/farge7.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/svart9.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/fuglB5.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/svart7.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/farge2.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/fuglA6.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/8.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/2.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/3.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/svart11.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/TIT05.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/svart6.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/svart4.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/MY06.png",
+            "x": 30,
+            "y": 52
+        },
+        {
+            "file": "Bisam/min 1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/min 2.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/min 3.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/min 4.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/min 5.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/min 6.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/min 7.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/min 8.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/min 9.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/min 10.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Bisam/min 11.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "FILIFJO/bord -Stue.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "FILIFJO/Bur -Stue.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "FILIFJO/grillbuske -Stue.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "FILIFJO/ormbunker -Stue.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "FILIFJO/Palm -Stue.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "FILIFJO/lianer.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "FILIFJO/kjøttetendeplante.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "FILIFJO/grillbuske.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "FILIFJO/orkide.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "FILIFJO/Gelender.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "FILIFJO/plommonbuske.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "INTRO/C07.png",
+            "x": 16,
+            "y": 56
+        },
+        {
+            "file": "INTRO/Finsk.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "INTRO/Norsk.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "INTRO/Svensk.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "INTRO/dansk.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "TofsVif/A1 TOFVIF.png",
+            "x": 100,
+            "y": 75
+        },
+        {
+            "file": "TofsVif/A1 TOFVIF.png",
+            "x": 100,
+            "y": 75
+        },
+        {
+            "file": "TofsVif/A2 TOFVIF.png",
+            "x": 90,
+            "y": 90
+        },
+        {
+            "file": "TofsVif/A3 TOFVIF.png",
+            "x": 90,
+            "y": 90
+        },
+        {
+            "file": "TofsVif/A4 TOFVIF.png",
+            "x": 90,
+            "y": 90
+        },
+        {
+            "file": "TofsVif/A5 TOFVIF.png",
+            "x": 90,
+            "y": 90
+        },
+        {
+            "file": "TofsVif/A6 TOFVIF.png",
+            "x": 90,
+            "y": 90
+        },
+        {
+            "file": "TofsVif/B2 TOFSVIFS.png",
+            "x": 69,
+            "y": 101
+        },
+        {
+            "file": "TofsVif/B2 TOFSVIFS.png",
+            "x": 80,
+            "y": 120
+        },
+        {
+            "file": "TofsVif/B3 TOFSLAN.png",
+            "x": 45,
+            "y": 77
+        },
+        {
+            "file": "TofsVif/C1 TOFSLAN.png",
+            "x": 30,
+            "y": 80
+        },
+        {
+            "file": "TofsVif/C2 VIFSLAN.png",
+            "x": 70,
+            "y": 70
+        },
+        {
+            "file": "TofsVif/C2 VIFSLAN.png",
+            "x": 40,
+            "y": 80
+        },
+        {
+            "file": "TofsVif/C3 VIFSLAN.png",
+            "x": 35,
+            "y": 85
+        },
+        {
+            "file": "TofsVif/D1 TOFSLAN.png",
+            "x": 40,
+            "y": 85
+        },
+        {
+            "file": "TofsVif/D2 TOFSLAN.png",
+            "x": 40,
+            "y": 85
+        },
+        {
+            "file": "TofsVif/D3 TOFSLAN.png",
+            "x": 43,
+            "y": 85
+        },
+        {
+            "file": "TofsVif/E1 VIFSLAN.png",
+            "x": 67,
+            "y": 110
+        },
+        {
+            "file": "TofsVif/H2 TOFSLAN.png",
+            "x": 30,
+            "y": 100
+        },
+        {
+            "file": "TofsVif/H3 TOFSLAN.png",
+            "x": 30,
+            "y": 100
+        },
+        {
+            "file": "TofsVif/I10 VIFSLAN.png",
+            "x": 45,
+            "y": 75
+        },
+        {
+            "file": "TofsVif/lys1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/A10.png",
+            "x": 83,
+            "y": 87
+        },
+        {
+            "file": "APESPIL/N01.png",
+            "x": 8,
+            "y": 103
+        },
+        {
+            "file": "APESPIL/N01.png",
+            "x": 43,
+            "y": 103
+        },
+        {
+            "file": "APESPIL/D08.png",
+            "x": 57,
+            "y": 56
+        },
+        {
+            "file": "APESPIL/Palm.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/D09.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/D07.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/G01.2.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/C02.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/G01.3.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/M05.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/G09.png",
+            "x": 77,
+            "y": 78
+        },
+        {
+            "file": "APESPIL/G09.png",
+            "x": 23,
+            "y": 155
+        },
+        {
+            "file": "APESPIL/G10.png",
+            "x": 40,
+            "y": 156
+        },
+        {
+            "file": "APESPIL/Q04.png",
+            "x": 55,
+            "y": 28
+        },
+        {
+            "file": "APESPIL/bordvekst.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/c2.png",
+            "x": 98,
+            "y": 38
+        },
+        {
+            "file": "APESPIL/c5.png",
+            "x": 130,
+            "y": 16
+        },
+        {
+            "file": "APESPIL/C01.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/A09.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/A15.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/A1.png",
+            "x": 163,
+            "y": 139
+        },
+        {
+            "file": "APESPIL/e2.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/G08.png",
+            "x": 37,
+            "y": 1
+        },
+        {
+            "file": "APESPIL/a2.png",
+            "x": 157,
+            "y": 145
+        },
+        {
+            "file": "APESPIL/A05.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/djungelgardin.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/H09.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/P05.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/bananer.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/b1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/A12.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/Q06.png",
+            "x": 41,
+            "y": 57
+        },
+        {
+            "file": "APESPIL/O04.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/O03.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/sten.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/A11.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/G01.1.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/D10.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/A14.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/L03.png",
+            "x": 44,
+            "y": 156
+        },
+        {
+            "file": "APESPIL/a3.png",
+            "x": 156,
+            "y": 147
+        },
+        {
+            "file": "APESPIL/F06.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/Q01.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/Q07.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/orkide.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/A10.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/G11.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/G06.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/N03.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/a4.png",
+            "x": 150,
+            "y": 153
+        },
+        {
+            "file": "APESPIL/J03.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/N02.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/N04.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/plommonbuske.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/A13.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/G04.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/G05.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/O06.png",
+            "x": 34,
+            "y": 57
+        },
+        {
+            "file": "APESPIL/Q03.png",
+            "x": 45,
+            "y": 55
+        },
+        {
+            "file": "APESPIL/L02.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/vattenväxt.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/F05.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/Q05.png",
+            "x": 44,
+            "y": 58
+        },
+        {
+            "file": "APESPIL/P03.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/L03.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/lianer 2.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "APESPIL/I05 80%.png",
+            "x": 69,
+            "y": 69
+        },
+        {
+            "file": "Memoar/S1 Sniff.png",
+            "x": 100,
+            "y": 200
+        },
+        {
+            "file": "Memoar/S4 Sniff.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Memoar/S8 Sniff.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Memoar/T9 Snus.png",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "file": "Kake/snuruntF3.png",
+            "x": 37,
+            "y": 106
+        },
+        {
+            "file": "Kake/lillemyD0.png",
+            "x": 35,
+            "y": 120
+        },
+        {
+            "file": "Kake/snurunttF4.png",
+            "x": 39,
+            "y": 119
+        },
+        {
+            "file": "Kake/MystoppM2.png",
+            "x": 50,
+            "y": 107
+        },
+        {
+            "file": "Kake/lillemykastC1.png",
+            "x": 32,
+            "y": 116
+        },
+        {
+            "file": "Kake/snuruntF1.png",
+            "x": 36,
+            "y": 118
+        },
+        {
+            "file": "Kake/lillemykastC3.png",
+            "x": 32,
+            "y": 114
+        },
+        {
+            "file": "Kake/TaemotD5.png",
+            "x": 52,
+            "y": 97
+        },
+        {
+            "file": "Kake/snuruntF0.png",
+            "x": 33,
+            "y": 121
+        },
+        {
+            "file": "Kake/lillemykastG3.png",
+            "x": 53,
+            "y": 114
+        },
+        {
+            "file": "Kake/MystoppK2.png",
+            "x": 34,
+            "y": 107
+        },
+        {
+            "file": "Kake/L04.png",
+            "x": 13,
+            "y": 37
+        },
+        {
+            "file": "Kake/L04.png",
+            "x": 9,
+            "y": 29
+        },
+        {
+            "file": "Kake/L04.png",
+            "x": 69,
+            "y": 56
+        },
+        {
+            "file": "Kake/L04.png",
+            "x": 67,
+            "y": 58
+        },
+        {
+            "file": "Kake/TaemotD2.png",
+            "x": 51,
+            "y": 96
+        },
+        {
+            "file": "Kake/TaemotD3.png",
+            "x": 43,
+            "y": 107
+        },
+        {
+            "file": "Kake/lillemykastG2.png",
+            "x": 39,
+            "y": 119
+        },
+        {
+            "file": "Kake/TaemotD6.png",
+            "x": 42,
+            "y": 114
+        },
+        {
+            "file": "Kake/gladF0.png",
+            "x": 56,
+            "y": 77
+        },
+        {
+            "file": "Kake/TaemotD4.png",
+            "x": 35,
+            "y": 119
+        },
+        {
+            "file": "Kake/lillemykastC2.png",
+            "x": 36,
+            "y": 119
+        },
+        {
+            "file": "Kake/L07.png",
+            "x": 15,
+            "y": 84
+        },
+        {
+            "file": "Kake/lillemyC0.png",
+            "x": 32,
+            "y": 117
+        },
+        {
+            "file": "Kake/lillemyG0.png",
+            "x": 40,
+            "y": 117
+        },
+        {
+            "file": "Kake/lillemykastG1.png",
+            "x": 49,
+            "y": 116
+        },
+        {
+            "file": "Kake/A4 My.png",
+            "x": 17,
+            "y": 61
+        },
+        {
+            "file": "Kake/A4 My.png",
+            "x": 58,
+            "y": 63
+        },
+        {
+            "file": "Kake/A4 My.png",
+            "x": 61,
+            "y": 59
+        },
+        {
+            "file": "Kake/A5 My.png",
+            "x": 16,
+            "y": 61
+        },
+        {
+            "file": "Kake/A5 My.png",
+            "x": 56,
+            "y": 60
+        },
+        {
+            "file": "Kake/A5 My.png",
+            "x": 58,
+            "y": 58
+        },
+        {
+            "file": "Kake/A5 My.png",
+            "x": 59,
+            "y": 57
+        }
+    ],
+    "skip": [
+        "SLUTT/bmm bkg.png",
+        "SLUTT/NS logo.png",
+        "OMMUMIN/Moominbiblioraphy.png",
+        "OMMUMIN/om Tove Jansson.png",
+        "OMMUMIN/omvox2_1.png",
+        "OMMUMIN/omvox2_2.png",
+        "OMMUMIN/omvox2_3.png",
+        "OMMUMIN/omvox2_4.png",
+        "OMMUMIN/omvox2_5.png",
+        "OMMUMIN/omvox2_6.png",
+        "OMMUMIN/omvox3_1.png",
+        "OMMUMIN/omvox3_2.png",
+        "OMMUMIN/omvox4.png",
+        "OMMUMIN/omvox7.png"
+    ]
+}
