@@ -77,6 +77,10 @@ void remove_background_custom(std::string file, int x, int y)
 	Magick::Image image;
 	image.read(file);
 
+	/* If the x and y coords are both -1, don't do anything */
+	if (x == -1 && y == -1)
+		return;
+
 	/* If the x and y coords are both 0, remove all white color
 	 * from the image. Otherwise proceed as normal with floodfill */
 	if (x == 0 && y == 0)
