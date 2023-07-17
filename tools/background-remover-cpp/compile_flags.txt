@@ -1,0 +1,3 @@
+-I./include
+-I/usr/include/ImageMagick-7
+-std=c++17
