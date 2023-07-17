@@ -142,8 +142,12 @@ int main(int argc, char** argv)
 				skip = true;
 				std::cout << "Skipping " << p.path().filename() << "\n";
 
-				/* Copy the file manually to the result directory */
-				std::filesystem::copy_file(p.path(), output_dir_path + "/" + p.path().parent_path().filename().string() + "/" + p.path().filename().string());
+				/* Copy the file manually to the result directory if its
+				 * not there already*/
+				std::string target_path = output_dir_path + "/" + p.path().parent_path().filename().string() + "/" + p.path().filename().string();
+
+				if (!std::filesystem::exists(target_path))
+					std::filesystem::copy_file(p.path(), target_path);
 				break;
 			}
 		}
@@ -176,7 +180,7 @@ int main(int argc, char** argv)
 	std::cout << "Processing exceptions...\n";
 	for (int i = 0; i < json_data["floodfill"].size(); ++i)
 	{
-		remove_background_custom("./output/" + std::string(json_data["floodfill"][i]["file"]), json_data[i]["x"], json_data[i]["y"]);
+		remove_background_custom("./output/" + std::string(json_data["floodfill"][i]["file"]), json_data["floodfill"][i]["x"], json_data["floodfill"][i]["y"]);
 	}
 
 	return 0;
