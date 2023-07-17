@@ -1,167 +1,173 @@
-[
-  {
-    "file": "HATIFNA/fyr7d.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/fyr8d.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/fyr1d.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/flekk.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/fyr6c.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/fyr1c.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/fyr1b.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/spots1_1.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/fyr4c.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/fyr3c.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/fyr2c.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/fyr2d.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/fyrverkeri.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/fyr9d.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/stjerne8.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/fyr2b.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/strek.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/A9 My.png",
-    "x": 50,
-    "y": 70
-  },
-  {
-    "file": "HATIFNA/A12 My.png",
-    "x": 43,
-    "y": 49
-  },
-  {
-    "file": "HATIFNA/A12 My.png",
-    "x": 44,
-    "y": 52
-  },
-  {
-    "file": "HATIFNA/A12 My.png",
-    "x": 46,
-    "y": 53
-  },
-  {
-    "file": "HATIFNA/B3 My.png",
-    "x": 27,
-    "y": 85
-  },
-  {
-    "file": "HATIFNA/B6 My.png",
-    "x": 23,
-    "y": 86
-  },
-  {
-    "file": "HATIFNA/C4 My.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/D6 My.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/F4 My.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/H1 My.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/H2 My.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/H3 My.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/H4 My.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "HATIFNA/H5 My.png",
-    "x": 30,
-    "y": 83
-  },
-  {
-    "file": "HATIFNA/H5 My.png",
-    "x": 40,
-    "y": 35
-  },
-  {
-    "file": "HATIFNA/viskeramme.png",
-    "x": 0,
-    "y": 0
-  }
-]
+{
+	"skip": [
+
+	],
+
+	"floodfill": [
+	  {
+		"file": "HATIFNA/fyr7d.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/fyr8d.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/fyr1d.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/flekk.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/fyr6c.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/fyr1c.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/fyr1b.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/spots1_1.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/fyr4c.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/fyr3c.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/fyr2c.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/fyr2d.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/fyrverkeri.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/fyr9d.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/stjerne8.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/fyr2b.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/strek.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/A9 My.png",
+		"x": 50,
+		"y": 70
+	  },
+	  {
+		"file": "HATIFNA/A12 My.png",
+		"x": 43,
+		"y": 49
+	  },
+	  {
+		"file": "HATIFNA/A12 My.png",
+		"x": 44,
+		"y": 52
+	  },
+	  {
+		"file": "HATIFNA/A12 My.png",
+		"x": 46,
+		"y": 53
+	  },
+	  {
+		"file": "HATIFNA/B3 My.png",
+		"x": 27,
+		"y": 85
+	  },
+	  {
+		"file": "HATIFNA/B6 My.png",
+		"x": 23,
+		"y": 86
+	  },
+	  {
+		"file": "HATIFNA/C4 My.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/D6 My.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/F4 My.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/H1 My.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/H2 My.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/H3 My.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/H4 My.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "HATIFNA/H5 My.png",
+		"x": 30,
+		"y": 83
+	  },
+	  {
+		"file": "HATIFNA/H5 My.png",
+		"x": 40,
+		"y": 35
+	  },
+	  {
+		"file": "HATIFNA/viskeramme.png",
+		"x": 0,
+		"y": 0
+	  }
+	]
+}

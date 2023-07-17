@@ -1,342 +1,348 @@
-[
-  {
-    "file": "APESPIL/A10.png",
-    "x": 83,
-    "y": 87
-  },
-  {
-    "file": "APESPIL/N01.png",
-    "x": 8,
-    "y": 103
-  },
-  {
-    "file": "APESPIL/N01.png",
-    "x": 43,
-    "y": 103
-  },
-  {
-    "file": "APESPIL/D08.png",
-    "x": 57,
-    "y": 56
-  },
-  {
-    "file": "APESPIL/Palm.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/D09.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/D07.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/G01.2.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/C02.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/G01.3.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/M05.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/G09.png",
-    "x": 77,
-    "y": 78
-  },
-  {
-    "file": "APESPIL/G09.png",
-    "x": 23,
-    "y": 155
-  },
-  {
-    "file": "APESPIL/G10.png",
-    "x": 40,
-    "y": 156
-  },
-  {
-    "file": "APESPIL/Q04.png",
-    "x": 55,
-    "y": 28
-  },
-  {
-    "file": "APESPIL/bordvekst.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/c2.png",
-    "x": 98,
-    "y": 38
-  },
-  {
-    "file": "APESPIL/c5.png",
-    "x": 130,
-    "y": 16
-  },
-  {
-    "file": "APESPIL/C01.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/A09.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/A15.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/A1.png",
-    "x": 163,
-    "y": 139
-  },
-  {
-    "file": "APESPIL/e2.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/G08.png",
-    "x": 37,
-    "y": 1
-  },
-  {
-    "file": "APESPIL/a2.png",
-    "x": 157,
-    "y": 145
-  },
-  {
-    "file": "APESPIL/A05.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/djungelgardin.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/H09.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/P05.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/bananer.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/b1.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/A12.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/Q06.png",
-    "x": 41,
-    "y": 57
-  },
-  {
-    "file": "APESPIL/O04.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/O03.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/sten.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/A11.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/G01.1.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/D10.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/A14.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/L03.png",
-    "x": 44,
-    "y": 156
-  },
-  {
-    "file": "APESPIL/a3.png",
-    "x": 156,
-    "y": 147
-  },
-  {
-    "file": "APESPIL/F06.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/Q01.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/Q07.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/orkide.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/A10.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/G11.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/G06.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/N03.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/a4.png",
-    "x": 150,
-    "y": 153
-  },
-  {
-    "file": "APESPIL/J03.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/N02.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/N04.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/plommonbuske.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/A13.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/G04.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/G05.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/O06.png",
-    "x": 34,
-    "y": 57
-  },
-  {
-    "file": "APESPIL/Q03.png",
-    "x": 45,
-    "y": 55
-  },
-  {
-    "file": "APESPIL/L02.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/vattenväxt.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/F05.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/Q05.png",
-    "x": 44,
-    "y": 58
-  },
-  {
-    "file": "APESPIL/P03.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/L03.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/lianer 2.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "APESPIL/I05 80%.png",
-    "x": 69,
-    "y": 69
-  }
-]
+{
+	"skip": [
+
+	],
+
+	"floodfill": [
+	  {
+		"file": "APESPIL/A10.png",
+		"x": 83,
+		"y": 87
+	  },
+	  {
+		"file": "APESPIL/N01.png",
+		"x": 8,
+		"y": 103
+	  },
+	  {
+		"file": "APESPIL/N01.png",
+		"x": 43,
+		"y": 103
+	  },
+	  {
+		"file": "APESPIL/D08.png",
+		"x": 57,
+		"y": 56
+	  },
+	  {
+		"file": "APESPIL/Palm.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/D09.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/D07.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/G01.2.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/C02.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/G01.3.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/M05.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/G09.png",
+		"x": 77,
+		"y": 78
+	  },
+	  {
+		"file": "APESPIL/G09.png",
+		"x": 23,
+		"y": 155
+	  },
+	  {
+		"file": "APESPIL/G10.png",
+		"x": 40,
+		"y": 156
+	  },
+	  {
+		"file": "APESPIL/Q04.png",
+		"x": 55,
+		"y": 28
+	  },
+	  {
+		"file": "APESPIL/bordvekst.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/c2.png",
+		"x": 98,
+		"y": 38
+	  },
+	  {
+		"file": "APESPIL/c5.png",
+		"x": 130,
+		"y": 16
+	  },
+	  {
+		"file": "APESPIL/C01.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/A09.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/A15.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/A1.png",
+		"x": 163,
+		"y": 139
+	  },
+	  {
+		"file": "APESPIL/e2.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/G08.png",
+		"x": 37,
+		"y": 1
+	  },
+	  {
+		"file": "APESPIL/a2.png",
+		"x": 157,
+		"y": 145
+	  },
+	  {
+		"file": "APESPIL/A05.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/djungelgardin.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/H09.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/P05.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/bananer.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/b1.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/A12.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/Q06.png",
+		"x": 41,
+		"y": 57
+	  },
+	  {
+		"file": "APESPIL/O04.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/O03.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/sten.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/A11.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/G01.1.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/D10.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/A14.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/L03.png",
+		"x": 44,
+		"y": 156
+	  },
+	  {
+		"file": "APESPIL/a3.png",
+		"x": 156,
+		"y": 147
+	  },
+	  {
+		"file": "APESPIL/F06.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/Q01.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/Q07.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/orkide.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/A10.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/G11.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/G06.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/N03.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/a4.png",
+		"x": 150,
+		"y": 153
+	  },
+	  {
+		"file": "APESPIL/J03.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/N02.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/N04.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/plommonbuske.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/A13.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/G04.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/G05.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/O06.png",
+		"x": 34,
+		"y": 57
+	  },
+	  {
+		"file": "APESPIL/Q03.png",
+		"x": 45,
+		"y": 55
+	  },
+	  {
+		"file": "APESPIL/L02.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/vattenväxt.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/F05.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/Q05.png",
+		"x": 44,
+		"y": 58
+	  },
+	  {
+		"file": "APESPIL/P03.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/L03.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/lianer 2.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "APESPIL/I05 80%.png",
+		"x": 69,
+		"y": 69
+	  }
+	]
+}

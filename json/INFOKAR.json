@@ -1,22 +1,28 @@
-[
-  {
-    "file": "INFOKAR/hattiloop.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "INFOKAR/Snorken72.png",
-    "x": 102,
-    "y": 197
-  },
-  {
-    "file": "INFOKAR/Mummitrollet72.png",
-    "x": 93,
-    "y": 180
-  },
-  {
-    "file": "INFOKAR/Snorkfrøken72.png",
-    "x": 92,
-    "y": 178
-  }
-]
+{
+	"skip": [
+
+	],
+
+	"floodfill": [
+	  {
+		"file": "INFOKAR/hattiloop.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "INFOKAR/Snorken72.png",
+		"x": 102,
+		"y": 197
+	  },
+	  {
+		"file": "INFOKAR/Mummitrollet72.png",
+		"x": 93,
+		"y": 180
+	  },
+	  {
+		"file": "INFOKAR/Snorkfrøken72.png",
+		"x": 92,
+		"y": 178
+	  }
+	]
+}

@@ -1,17 +1,23 @@
-[
-  {
-    "file": "KART/förgrund.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "KART/fil11.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "KART/fil09.png",
-    "x": 16,
-    "y": 16
-  }
-]
+{
+	"skip": [
+
+	],
+
+	"floodfill": [
+	  {
+		"file": "KART/förgrund.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "KART/fil11.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "KART/fil09.png",
+		"x": 16,
+		"y": 16
+	  }
+	]
+}

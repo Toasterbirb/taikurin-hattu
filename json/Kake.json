@@ -1,167 +1,173 @@
-[
-  {
-    "file": "Kake/snuruntF3.png",
-    "x": 37,
-    "y": 106
-  },
-  {
-    "file": "Kake/lillemyD0.png",
-    "x": 35,
-    "y": 120
-  },
-  {
-    "file": "Kake/snurunttF4.png",
-    "x": 39,
-    "y": 119
-  },
-  {
-    "file": "Kake/MystoppM2.png",
-    "x": 50,
-    "y": 107
-  },
-  {
-    "file": "Kake/lillemykastC1.png",
-    "x": 32,
-    "y": 116
-  },
-  {
-    "file": "Kake/snuruntF1.png",
-    "x": 36,
-    "y": 118
-  },
-  {
-    "file": "Kake/lillemykastC3.png",
-    "x": 32,
-    "y": 114
-  },
-  {
-    "file": "Kake/TaemotD5.png",
-    "x": 52,
-    "y": 97
-  },
-  {
-    "file": "Kake/snuruntF0.png",
-    "x": 33,
-    "y": 121
-  },
-  {
-    "file": "Kake/lillemykastG3.png",
-    "x": 53,
-    "y": 114
-  },
-  {
-    "file": "Kake/MystoppK2.png",
-    "x": 34,
-    "y": 107
-  },
-  {
-    "file": "Kake/L04.png",
-    "x": 13,
-    "y": 37
-  },
-  {
-    "file": "Kake/L04.png",
-    "x": 9,
-    "y": 29
-  },
-  {
-    "file": "Kake/L04.png",
-    "x": 69,
-    "y": 56
-  },
-  {
-    "file": "Kake/L04.png",
-    "x": 67,
-    "y": 58
-  },
-  {
-    "file": "Kake/TaemotD2.png",
-    "x": 51,
-    "y": 96
-  },
-  {
-    "file": "Kake/TaemotD3.png",
-    "x": 43,
-    "y": 107
-  },
-  {
-    "file": "Kake/lillemykastG2.png",
-    "x": 39,
-    "y": 119
-  },
-  {
-    "file": "Kake/TaemotD6.png",
-    "x": 42,
-    "y": 114
-  },
-  {
-    "file": "Kake/gladF0.png",
-    "x": 56,
-    "y": 77
-  },
-  {
-    "file": "Kake/TaemotD4.png",
-    "x": 35,
-    "y": 119
-  },
-  {
-    "file": "Kake/lillemykastC2.png",
-    "x": 36,
-    "y": 119
-  },
-  {
-    "file": "Kake/L07.png",
-    "x": 15,
-    "y": 84
-  },
-  {
-    "file": "Kake/lillemyC0.png",
-    "x": 32,
-    "y": 117
-  },
-  {
-    "file": "Kake/lillemyG0.png",
-    "x": 40,
-    "y": 117
-  },
-  {
-    "file": "Kake/lillemykastG1.png",
-    "x": 49,
-    "y": 116
-  },
-  {
-    "file": "Kake/A4 My.png",
-    "x": 17,
-    "y": 61
-  },
-  {
-    "file": "Kake/A4 My.png",
-    "x": 58,
-    "y": 63
-  },
-  {
-    "file": "Kake/A4 My.png",
-    "x": 61,
-    "y": 59
-  },
-  {
-    "file": "Kake/A5 My.png",
-    "x": 16,
-    "y": 61
-  },
-  {
-    "file": "Kake/A5 My.png",
-    "x": 56,
-    "y": 60
-  },
-  {
-    "file": "Kake/A5 My.png",
-    "x": 58,
-    "y": 58
-  },
-  {
-    "file": "Kake/A5 My.png",
-    "x": 59,
-    "y": 57
-  }
-]
+{
+	"skip": [
+
+	],
+
+	"floodfill": [
+	  {
+		"file": "Kake/snuruntF3.png",
+		"x": 37,
+		"y": 106
+	  },
+	  {
+		"file": "Kake/lillemyD0.png",
+		"x": 35,
+		"y": 120
+	  },
+	  {
+		"file": "Kake/snurunttF4.png",
+		"x": 39,
+		"y": 119
+	  },
+	  {
+		"file": "Kake/MystoppM2.png",
+		"x": 50,
+		"y": 107
+	  },
+	  {
+		"file": "Kake/lillemykastC1.png",
+		"x": 32,
+		"y": 116
+	  },
+	  {
+		"file": "Kake/snuruntF1.png",
+		"x": 36,
+		"y": 118
+	  },
+	  {
+		"file": "Kake/lillemykastC3.png",
+		"x": 32,
+		"y": 114
+	  },
+	  {
+		"file": "Kake/TaemotD5.png",
+		"x": 52,
+		"y": 97
+	  },
+	  {
+		"file": "Kake/snuruntF0.png",
+		"x": 33,
+		"y": 121
+	  },
+	  {
+		"file": "Kake/lillemykastG3.png",
+		"x": 53,
+		"y": 114
+	  },
+	  {
+		"file": "Kake/MystoppK2.png",
+		"x": 34,
+		"y": 107
+	  },
+	  {
+		"file": "Kake/L04.png",
+		"x": 13,
+		"y": 37
+	  },
+	  {
+		"file": "Kake/L04.png",
+		"x": 9,
+		"y": 29
+	  },
+	  {
+		"file": "Kake/L04.png",
+		"x": 69,
+		"y": 56
+	  },
+	  {
+		"file": "Kake/L04.png",
+		"x": 67,
+		"y": 58
+	  },
+	  {
+		"file": "Kake/TaemotD2.png",
+		"x": 51,
+		"y": 96
+	  },
+	  {
+		"file": "Kake/TaemotD3.png",
+		"x": 43,
+		"y": 107
+	  },
+	  {
+		"file": "Kake/lillemykastG2.png",
+		"x": 39,
+		"y": 119
+	  },
+	  {
+		"file": "Kake/TaemotD6.png",
+		"x": 42,
+		"y": 114
+	  },
+	  {
+		"file": "Kake/gladF0.png",
+		"x": 56,
+		"y": 77
+	  },
+	  {
+		"file": "Kake/TaemotD4.png",
+		"x": 35,
+		"y": 119
+	  },
+	  {
+		"file": "Kake/lillemykastC2.png",
+		"x": 36,
+		"y": 119
+	  },
+	  {
+		"file": "Kake/L07.png",
+		"x": 15,
+		"y": 84
+	  },
+	  {
+		"file": "Kake/lillemyC0.png",
+		"x": 32,
+		"y": 117
+	  },
+	  {
+		"file": "Kake/lillemyG0.png",
+		"x": 40,
+		"y": 117
+	  },
+	  {
+		"file": "Kake/lillemykastG1.png",
+		"x": 49,
+		"y": 116
+	  },
+	  {
+		"file": "Kake/A4 My.png",
+		"x": 17,
+		"y": 61
+	  },
+	  {
+		"file": "Kake/A4 My.png",
+		"x": 58,
+		"y": 63
+	  },
+	  {
+		"file": "Kake/A4 My.png",
+		"x": 61,
+		"y": 59
+	  },
+	  {
+		"file": "Kake/A5 My.png",
+		"x": 16,
+		"y": 61
+	  },
+	  {
+		"file": "Kake/A5 My.png",
+		"x": 56,
+		"y": 60
+	  },
+	  {
+		"file": "Kake/A5 My.png",
+		"x": 58,
+		"y": 58
+	  },
+	  {
+		"file": "Kake/A5 My.png",
+		"x": 59,
+		"y": 57
+	  }
+	]
+}

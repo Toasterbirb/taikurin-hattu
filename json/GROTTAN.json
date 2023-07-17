@@ -1,107 +1,113 @@
-[
-  {
-    "file": "GROTTAN/a.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/o.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/oe.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/p.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/q.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/r.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/aa.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/ae.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/b.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/d.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/e.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/Z10.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/Z04.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/Z03.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/N13.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/N06.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/N05.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/N04.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/N03.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/M06.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "GROTTAN/K14.png",
-    "x": 0,
-    "y": 0
-  }
-]
+{
+	"skip": [
+
+	],
+
+	"floodfill": [
+	  {
+		"file": "GROTTAN/a.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/o.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/oe.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/p.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/q.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/r.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/aa.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/ae.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/b.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/d.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/e.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/Z10.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/Z04.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/Z03.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/N13.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/N06.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/N05.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/N04.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/N03.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/M06.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "GROTTAN/K14.png",
+		"x": 0,
+		"y": 0
+	  }
+	]
+}

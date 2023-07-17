@@ -1,377 +1,383 @@
-[
-  {
-    "file": "Bisam/fuglB8.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/TIT07.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/10.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/ekorn20.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/ekorn18.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/farge12.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/klocka.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/ekorn24.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/1.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/ekorn12.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/svart10.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/TIT03.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/6.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/ekorn10.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/fuglA2.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/farge6.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/11.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/svart5.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/ekorn14.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/5.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/4.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/TIT04.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/TIT08.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/ekorn06.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/svart2.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/9.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/ekorn25.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/60.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/A01.png",
-    "x": 29,
-    "y": 0
-  },
-  {
-    "file": "Bisam/TIT06.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/svart12.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/7.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/ekorn13.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/ekorn21.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/00.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/ekorn05.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/lyckohjul.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/svart8.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/ekorn15.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/farge9.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/A04.png",
-    "x": 1,
-    "y": 87
-  },
-  {
-    "file": "Bisam/A04.png",
-    "x": 71,
-    "y": 121
-  },
-  {
-    "file": "Bisam/MY07.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/MY04.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/fuglB4.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/farge10.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/farge8.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/farge11.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/farge4.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/12.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/farge7.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/svart9.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/fuglB5.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/svart7.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/farge2.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/fuglA6.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/8.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/2.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/3.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/svart11.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/TIT05.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/svart6.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/svart4.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/MY06.png",
-    "x": 30,
-    "y": 52
-  },
-  {
-    "file": "Bisam/min 1.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/min 2.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/min 3.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/min 4.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/min 5.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/min 6.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/min 7.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/min 8.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/min 9.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/min 10.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Bisam/min 11.png",
-    "x": 0,
-    "y": 0
-  }
-]
+{
+	"skip": [
+
+	],
+
+	"floodfill": [
+	  {
+		"file": "Bisam/fuglB8.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/TIT07.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/10.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/ekorn20.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/ekorn18.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/farge12.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/klocka.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/ekorn24.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/1.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/ekorn12.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/svart10.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/TIT03.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/6.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/ekorn10.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/fuglA2.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/farge6.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/11.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/svart5.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/ekorn14.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/5.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/4.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/TIT04.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/TIT08.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/ekorn06.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/svart2.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/9.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/ekorn25.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/60.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/A01.png",
+		"x": 29,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/TIT06.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/svart12.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/7.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/ekorn13.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/ekorn21.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/00.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/ekorn05.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/lyckohjul.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/svart8.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/ekorn15.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/farge9.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/A04.png",
+		"x": 1,
+		"y": 87
+	  },
+	  {
+		"file": "Bisam/A04.png",
+		"x": 71,
+		"y": 121
+	  },
+	  {
+		"file": "Bisam/MY07.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/MY04.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/fuglB4.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/farge10.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/farge8.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/farge11.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/farge4.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/12.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/farge7.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/svart9.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/fuglB5.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/svart7.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/farge2.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/fuglA6.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/8.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/2.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/3.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/svart11.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/TIT05.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/svart6.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/svart4.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/MY06.png",
+		"x": 30,
+		"y": 52
+	  },
+	  {
+		"file": "Bisam/min 1.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/min 2.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/min 3.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/min 4.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/min 5.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/min 6.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/min 7.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/min 8.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/min 9.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/min 10.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Bisam/min 11.png",
+		"x": 0,
+		"y": 0
+	  }
+	]
+}

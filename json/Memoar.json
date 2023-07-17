@@ -1,22 +1,28 @@
-[
-  {
-    "file": "Memoar/S1 Sniff.png",
-    "x": 100,
-    "y": 200
-  },
-  {
-    "file": "Memoar/S4 Sniff.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Memoar/S8 Sniff.png",
-    "x": 0,
-    "y": 0
-  },
-  {
-    "file": "Memoar/T9 Snus.png",
-    "x": 0,
-    "y": 0
-  }
-]
+{
+	"skip": [
+
+	],
+
+	"floodfill": [
+	  {
+		"file": "Memoar/S1 Sniff.png",
+		"x": 100,
+		"y": 200
+	  },
+	  {
+		"file": "Memoar/S4 Sniff.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Memoar/S8 Sniff.png",
+		"x": 0,
+		"y": 0
+	  },
+	  {
+		"file": "Memoar/T9 Snus.png",
+		"x": 0,
+		"y": 0
+	  }
+	]
+}

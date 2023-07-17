@@ -1,27 +1,33 @@
-[
-  {
-    "file": "TROLLIN/Background copy 3.png",
-    "x": 300,
-    "y": 200
-  },
-  {
-    "file": "TROLLIN/I1-T.png",
-    "x": 38,
-    "y": 58
-  },
-  {
-    "file": "TROLLIN/I1-T.png",
-    "x": 40,
-    "y": 60
-  },
-  {
-    "file": "TROLLIN/K4-T.png",
-    "x": 10,
-    "y": 43
-  },
-  {
-    "file": "TROLLIN/V2-M.png",
-    "x": 133,
-    "y": 44
-  }
-]
+{
+	"skip": [
+
+	],
+
+	"floodfill": [
+	  {
+		"file": "TROLLIN/Background copy 3.png",
+		"x": 300,
+		"y": 200
+	  },
+	  {
+		"file": "TROLLIN/I1-T.png",
+		"x": 38,
+		"y": 58
+	  },
+	  {
+		"file": "TROLLIN/I1-T.png",
+		"x": 40,
+		"y": 60
+	  },
+	  {
+		"file": "TROLLIN/K4-T.png",
+		"x": 10,
+		"y": 43
+	  },
+	  {
+		"file": "TROLLIN/V2-M.png",
+		"x": 133,
+		"y": 44
+	  }
+	]
+}

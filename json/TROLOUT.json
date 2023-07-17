@@ -1,617 +1,623 @@
-[
-    {
-        "file": "TROLOUT/23 1.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/A01.png",
-        "x": 29,
-        "y": 1
-    },
-    {
-        "file": "TROLOUT/Å3-T.png",
-        "x": 19,
-        "y": 1
-    },
-    {
-        "file": "TROLOUT/Æ3-T.png",
-        "x": 51,
-        "y": 15
-    },
-    {
-        "file": "TROLOUT/Æ5-T.png",
-        "x": 15,
-        "y": 53
-    },
-    {
-        "file": "TROLOUT/Æ6-T.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/Æ7-T.png",
-        "x": 0,
-        "y": 17
-    },
-    {
-        "file": "TROLOUT/bis 1 .png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/bis 2.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/bis 3.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/bis 5.png",
-        "x": 31,
-        "y": 1
-    },
-    {
-        "file": "TROLOUT/bis 5.png",
-        "x": 0,
-        "y": 26
-    },
-    {
-        "file": "TROLOUT/bis 5.png",
-        "x": 91,
-        "y": 43
-    },
-    {
-        "file": "TROLOUT/bis 5.png",
-        "x": 90,
-        "y": 39
-    },
-    {
-        "file": "TROLOUT/bis 8.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/bis 9.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/bis 10.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fil 7.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fil 10.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fil 11.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fil 13.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fil 15.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fly 01.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fly 02.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fly 04.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fly 05.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fly 06.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fly 07.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fly 08.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fly 09.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fly 11.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fly 12.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fly 14.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fly 16.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/fly 18.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/hb 10.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/hb7.PCT.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/hb.PCT.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/hc2.PCT.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/hc3.PCT.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/hc4.PCT.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/K2-T.png",
-        "x": 6,
-        "y": 38
-    },
-    {
-        "file": "TROLOUT/K2-T.png",
-        "x": 12,
-        "y": 37
-    },
-    {
-        "file": "TROLOUT/K2-T.png",
-        "x": 31,
-        "y": 33
-    },
-    {
-        "file": "TROLOUT/K2-T.png",
-        "x": 29,
-        "y": 49
-    },
-    {
-        "file": "TROLOUT/K4-T.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/K5-T.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/K6-T.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/M 05.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/M6-T.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/my 1.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/my 2.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/my 3.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/my 4.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/my 5.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/my 6.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/my 7.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/my 8.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/my 9.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/my 11.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/my 13.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/my 14.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/mym 12.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/mym 13.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/N1-T.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/O04.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/O08.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/sni 1.png",
-        "x": 82,
-        "y": 88
-    },
-    {
-        "file": "TROLOUT/sni 1.png",
-        "x": 81,
-        "y": 89
-    },
-    {
-        "file": "TROLOUT/sni 1.png",
-        "x": 127,
-        "y": 90
-    },
-    {
-        "file": "TROLOUT/sni 1.png",
-        "x": 120,
-        "y": 83
-    },
-    {
-        "file": "TROLOUT/sni 1.png",
-        "x": 118,
-        "y": 84
-    },
-    {
-        "file": "TROLOUT/sni 1.png",
-        "x": 115,
-        "y": 85
-    },
-    {
-        "file": "TROLOUT/sni 1.png",
-        "x": 114,
-        "y": 86
-    },
-    {
-        "file": "TROLOUT/sni 2.png",
-        "x": 134,
-        "y": 95
-    },
-    {
-        "file": "TROLOUT/sni 3.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/sni 4.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/sni 5.png",
-        "x": 60,
-        "y": 80
-    },
-    {
-        "file": "TROLOUT/sni 5.png",
-        "x": 116,
-        "y": 94
-    },
-    {
-        "file": "TROLOUT/sni 6.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/sni 6.png",
-        "x": 116,
-        "y": 92
-    },
-    {
-        "file": "TROLOUT/sni 7.png",
-        "x": 119,
-        "y": 94
-    },
-    {
-        "file": "TROLOUT/sni 9.png",
-        "x": 134,
-        "y": 96
-    },
-    {
-        "file": "TROLOUT/sni 11.png",
-        "x": 127,
-        "y": 88
-    },
-    {
-        "file": "TROLOUT/Snr 00.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/Snr 03.png",
-        "x": 30,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/Snr 06.png",
-        "x": 97,
-        "y": 99
-    },
-    {
-        "file": "TROLOUT/snu 1.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/snu 2.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/snu 3.png",
-        "x": 40,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/snu 4.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/snu 7.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/snu 12.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/snu 13.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/snu 15.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/tot 0.png",
-        "x": 106,
-        "y": 50
-    },
-    {
-        "file": "TROLOUT/tot 2.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/tot 3.png",
-        "x": 57,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/tot 4.png",
-        "x": 52,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/tot 4.png",
-        "x": 57,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/tot 6.png",
-        "x": 117,
-        "y": 117
-    },
-    {
-        "file": "TROLOUT/tot 10.png",
-        "x": 122,
-        "y": 122
-    },
-    {
-        "file": "TROLOUT/tot 16.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/tot 18.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/tot 19.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/V3-T.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/V4-T.png",
-        "x": 37,
-        "y": 50
-    },
-    {
-        "file": "TROLOUT/V4-T.png",
-        "x": 36,
-        "y": 40
-    },
-    {
-        "file": "TROLOUT/V4-T.png",
-        "x": 45,
-        "y": 20
-    },
-    {
-        "file": "TROLOUT/V6-T.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/vif 3 tof 3.png",
-        "x": 70,
-        "y": 21
-    },
-    {
-        "file": "TROLOUT/vif 3 tof 3.png",
-        "x": 73,
-        "y": 35
-    },
-    {
-        "file": "TROLOUT/vif 4 tof 4.png",
-        "x": 78,
-        "y": 30
-    },
-    {
-        "file": "TROLOUT/vif 5 tof 5.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/W2-T.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/Y5-T.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/Y6-T.png",
-        "x": 18,
-        "y": 28
-    },
-    {
-        "file": "TROLOUT/Y6-T.png",
-        "x": 12,
-        "y": 30
-    },
-    {
-        "file": "TROLOUT/Y9-T.png",
-        "x": 23,
-        "y": 20
-    },
-    {
-        "file": "TROLOUT/Y9-T.png",
-        "x": 21,
-        "y": 21
-    },
-    {
-        "file": "TROLOUT/Y9-T.png",
-        "x": 19,
-        "y": 22
-    },
-    {
-        "file": "TROLOUT/Z2-T.png",
-        "x": 0,
-        "y": 0
-    },
-    {
-        "file": "TROLOUT/Z3-T.png",
-        "x": 53,
-        "y": 223
-    }
-]
+{
+	"skip": [
+
+	],
+
+	"floodfill": [
+		{
+			"file": "TROLOUT/23 1.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/A01.png",
+			"x": 29,
+			"y": 1
+		},
+		{
+			"file": "TROLOUT/Å3-T.png",
+			"x": 19,
+			"y": 1
+		},
+		{
+			"file": "TROLOUT/Æ3-T.png",
+			"x": 51,
+			"y": 15
+		},
+		{
+			"file": "TROLOUT/Æ5-T.png",
+			"x": 15,
+			"y": 53
+		},
+		{
+			"file": "TROLOUT/Æ6-T.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/Æ7-T.png",
+			"x": 0,
+			"y": 17
+		},
+		{
+			"file": "TROLOUT/bis 1 .png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/bis 2.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/bis 3.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/bis 5.png",
+			"x": 31,
+			"y": 1
+		},
+		{
+			"file": "TROLOUT/bis 5.png",
+			"x": 0,
+			"y": 26
+		},
+		{
+			"file": "TROLOUT/bis 5.png",
+			"x": 91,
+			"y": 43
+		},
+		{
+			"file": "TROLOUT/bis 5.png",
+			"x": 90,
+			"y": 39
+		},
+		{
+			"file": "TROLOUT/bis 8.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/bis 9.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/bis 10.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fil 7.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fil 10.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fil 11.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fil 13.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fil 15.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fly 01.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fly 02.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fly 04.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fly 05.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fly 06.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fly 07.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fly 08.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fly 09.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fly 11.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fly 12.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fly 14.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fly 16.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/fly 18.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/hb 10.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/hb7.PCT.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/hb.PCT.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/hc2.PCT.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/hc3.PCT.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/hc4.PCT.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/K2-T.png",
+			"x": 6,
+			"y": 38
+		},
+		{
+			"file": "TROLOUT/K2-T.png",
+			"x": 12,
+			"y": 37
+		},
+		{
+			"file": "TROLOUT/K2-T.png",
+			"x": 31,
+			"y": 33
+		},
+		{
+			"file": "TROLOUT/K2-T.png",
+			"x": 29,
+			"y": 49
+		},
+		{
+			"file": "TROLOUT/K4-T.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/K5-T.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/K6-T.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/M 05.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/M6-T.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/my 1.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/my 2.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/my 3.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/my 4.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/my 5.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/my 6.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/my 7.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/my 8.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/my 9.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/my 11.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/my 13.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/my 14.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/mym 12.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/mym 13.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/N1-T.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/O04.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/O08.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/sni 1.png",
+			"x": 82,
+			"y": 88
+		},
+		{
+			"file": "TROLOUT/sni 1.png",
+			"x": 81,
+			"y": 89
+		},
+		{
+			"file": "TROLOUT/sni 1.png",
+			"x": 127,
+			"y": 90
+		},
+		{
+			"file": "TROLOUT/sni 1.png",
+			"x": 120,
+			"y": 83
+		},
+		{
+			"file": "TROLOUT/sni 1.png",
+			"x": 118,
+			"y": 84
+		},
+		{
+			"file": "TROLOUT/sni 1.png",
+			"x": 115,
+			"y": 85
+		},
+		{
+			"file": "TROLOUT/sni 1.png",
+			"x": 114,
+			"y": 86
+		},
+		{
+			"file": "TROLOUT/sni 2.png",
+			"x": 134,
+			"y": 95
+		},
+		{
+			"file": "TROLOUT/sni 3.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/sni 4.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/sni 5.png",
+			"x": 60,
+			"y": 80
+		},
+		{
+			"file": "TROLOUT/sni 5.png",
+			"x": 116,
+			"y": 94
+		},
+		{
+			"file": "TROLOUT/sni 6.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/sni 6.png",
+			"x": 116,
+			"y": 92
+		},
+		{
+			"file": "TROLOUT/sni 7.png",
+			"x": 119,
+			"y": 94
+		},
+		{
+			"file": "TROLOUT/sni 9.png",
+			"x": 134,
+			"y": 96
+		},
+		{
+			"file": "TROLOUT/sni 11.png",
+			"x": 127,
+			"y": 88
+		},
+		{
+			"file": "TROLOUT/Snr 00.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/Snr 03.png",
+			"x": 30,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/Snr 06.png",
+			"x": 97,
+			"y": 99
+		},
+		{
+			"file": "TROLOUT/snu 1.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/snu 2.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/snu 3.png",
+			"x": 40,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/snu 4.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/snu 7.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/snu 12.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/snu 13.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/snu 15.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/tot 0.png",
+			"x": 106,
+			"y": 50
+		},
+		{
+			"file": "TROLOUT/tot 2.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/tot 3.png",
+			"x": 57,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/tot 4.png",
+			"x": 52,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/tot 4.png",
+			"x": 57,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/tot 6.png",
+			"x": 117,
+			"y": 117
+		},
+		{
+			"file": "TROLOUT/tot 10.png",
+			"x": 122,
+			"y": 122
+		},
+		{
+			"file": "TROLOUT/tot 16.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/tot 18.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/tot 19.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/V3-T.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/V4-T.png",
+			"x": 37,
+			"y": 50
+		},
+		{
+			"file": "TROLOUT/V4-T.png",
+			"x": 36,
+			"y": 40
+		},
+		{
+			"file": "TROLOUT/V4-T.png",
+			"x": 45,
+			"y": 20
+		},
+		{
+			"file": "TROLOUT/V6-T.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/vif 3 tof 3.png",
+			"x": 70,
+			"y": 21
+		},
+		{
+			"file": "TROLOUT/vif 3 tof 3.png",
+			"x": 73,
+			"y": 35
+		},
+		{
+			"file": "TROLOUT/vif 4 tof 4.png",
+			"x": 78,
+			"y": 30
+		},
+		{
+			"file": "TROLOUT/vif 5 tof 5.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/W2-T.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/Y5-T.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/Y6-T.png",
+			"x": 18,
+			"y": 28
+		},
+		{
+			"file": "TROLOUT/Y6-T.png",
+			"x": 12,
+			"y": 30
+		},
+		{
+			"file": "TROLOUT/Y9-T.png",
+			"x": 23,
+			"y": 20
+		},
+		{
+			"file": "TROLOUT/Y9-T.png",
+			"x": 21,
+			"y": 21
+		},
+		{
+			"file": "TROLOUT/Y9-T.png",
+			"x": 19,
+			"y": 22
+		},
+		{
+			"file": "TROLOUT/Z2-T.png",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"file": "TROLOUT/Z3-T.png",
+			"x": 53,
+			"y": 223
+		}
+	]
+}

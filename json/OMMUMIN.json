@@ -1,62 +1,18 @@
-[
-  {
-    "file": "OMMUMIN/Moominbiblioraphy.png",
-    "x": -1,
-    "y": -1
-  },
-  {
-    "file": "OMMUMIN/om Tove Jansson.png",
-    "x": -1,
-    "y": -1
-  },
-  {
-    "file": "OMMUMIN/omvox2_1.png",
-    "x": -1,
-    "y": -1
-  },
-  {
-    "file": "OMMUMIN/omvox2_2.png",
-    "x": -1,
-    "y": -1
-  },
-  {
-    "file": "OMMUMIN/omvox2_3.png",
-    "x": -1,
-    "y": -1
-  },
-  {
-    "file": "OMMUMIN/omvox2_4.png",
-    "x": -1,
-    "y": -1
-  },
-  {
-    "file": "OMMUMIN/omvox2_5.png",
-    "x": -1,
-    "y": -1
-  },
-  {
-    "file": "OMMUMIN/omvox2_6.png",
-    "x": -1,
-    "y": -1
-  },
-  {
-    "file": "OMMUMIN/omvox3_1.png",
-    "x": -1,
-    "y": -1
-  },
-  {
-    "file": "OMMUMIN/omvox3_2.png",
-    "x": -1,
-    "y": -1
-  },
-  {
-    "file": "OMMUMIN/omvox4.png",
-    "x": -1,
-    "y": -1
-  },
-  {
-    "file": "OMMUMIN/omvox7.png",
-    "x": -1,
-    "y": -1
-  }
-]
+{
+	"skip": [
+		"OMMUMIN/Moominbiblioraphy.png",
+		"OMMUMIN/om Tove Jansson.png",
+		"OMMUMIN/omvox2_1.png",
+		"OMMUMIN/omvox2_2.png",
+		"OMMUMIN/omvox2_3.png",
+		"OMMUMIN/omvox2_4.png",
+		"OMMUMIN/omvox2_5.png",
+		"OMMUMIN/omvox2_6.png",
+		"OMMUMIN/omvox3_1.png",
+		"OMMUMIN/omvox3_2.png",
+		"OMMUMIN/omvox4.png",
+		"OMMUMIN/omvox7.png"
+	],
+
+	"floodfill": []
+}

@@ -1,12 +1,8 @@
-[
-  {
-    "file": "SLUTT/bmm bkg.png",
-    "x": -1,
-    "y": -1
-  },
-  {
-    "file": "SLUTT/NS logo.png",
-    "x": -1,
-    "y": -1
-  }
-]
+{
+	"skip": [
+		"SLUTT/bmm bkg.png",
+		"SLUTT/NS logo.png"
+	],
+
+	"floodfill": []
+}
