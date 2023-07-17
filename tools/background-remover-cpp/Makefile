@@ -1,4 +1,4 @@
-CXXFLAGS=-O2 -flto
+CXXFLAGS=-O2 -flto -std=c++17 -ltbb
 BIN=asset_cleaner
 
 all:

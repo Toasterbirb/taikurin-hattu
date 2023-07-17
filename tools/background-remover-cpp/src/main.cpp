@@ -1,3 +1,5 @@
+#include <algorithm>
+#include <execution>
 #include <exception>
 #include <filesystem>
 #include "Magick++/Color.h"
@@ -11,6 +13,7 @@
 #include <string>
 #include <fstream>
 #include <nlohmann/json.hpp>
+#include <vector>
 
 static const Magick::Color color_transparent(0, 0, 0, 0);
 static const Magick::Color color_white(65535, 65535, 65535, 65535);
@@ -41,7 +44,7 @@ void floodfill_white(Magick::Image& image, int x, int y)
 		image.floodFillColor(x, y, color_transparent, false);
 }
 
-void remove_background(std::string input, std::string output)
+void remove_background(const std::string& input, const std::string& output)
 {
 	Magick::Image image;
 	image.read(input);
@@ -72,7 +75,7 @@ void remove_background(std::string input, std::string output)
 	image.write(output);
 }
 
-void remove_background_custom(std::string file, int x, int y)
+void remove_background_custom(const std::string& file, int x, int y)
 {
 	Magick::Image image;
 	image.read(file);
@@ -111,34 +114,42 @@ int main(int argc, char** argv)
 	std::filesystem::path dir_path(argv[2]);
 
 	/* Create output directory */
-	std::string output_dir_path = "./output";
+	const std::string output_dir_path = "./output";
 	std::filesystem::create_directory(output_dir_path);
 
 	/* Read in the exception json file */
 	nlohmann::json json_data = nlohmann::json::parse(read_file(exception_file_path));
 
-	/* Go through all of the png files */
-	for (const auto& p : std::filesystem::recursive_directory_iterator(dir_path))
+	/* Prepare a list of image file paths */
+	std::vector<std::filesystem::path> file_paths;
+	std::filesystem::recursive_directory_iterator dir_iterator(dir_path);
+
+	for (const auto& p : dir_iterator)
 	{
 		/* Make sure that the filepath is a png file */
 		if (!p.is_regular_file())
 			continue;
 
-		std::cout << "Processing " << p.path().filename() << "\n";
-
-		try {
-			std::string parent_dir = output_dir_path + "/" + p.path().parent_path().filename().string();
-
-			/* Check if the file has been processed already */
-			if (std::filesystem::exists(parent_dir + "/" + p.path().filename().string()))
-				continue;
-
-			std::filesystem::create_directory(parent_dir);
-			remove_background(p.path().string(), parent_dir + "/" + p.path().filename().string());
-		} catch (std::exception e) {
-			std::cout << e.what() << "\n";
-		}
+		file_paths.push_back(p);
 	}
+
+	std::for_each(std::execution::par, file_paths.begin(), file_paths.end(), [](auto&& p)
+		{
+			std::cout << "Processing " << p.filename() << "\n";
+
+			try {
+				std::string parent_dir = "./output/" + p.parent_path().filename().string();
+
+				/* Check if the file has been processed already */
+				if (!std::filesystem::exists(parent_dir + "/" + p.filename().string()))
+				{
+					std::filesystem::create_directory(parent_dir);
+					remove_background(p.string(), parent_dir + "/" + p.filename().string());
+				}
+			} catch (std::exception e) {
+				std::cout << e.what() << "\n";
+			}
+		});
 
 	/* Go through the exception list */
 	std::cout << "Processing exceptions...\n";
